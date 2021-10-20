@@ -1,32 +1,5 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@paulomarian0 
-devchallenge-io
-/
-biblioteca-backend
-Public template
-1
-4022
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-biblioteca-backend/README.md
-@Lorenalgm
-Lorenalgm Update README.md
-Latest commit 31d207f on 16 Jul 2020
- History
- 1 contributor
-62 lines (47 sloc)  2.59 KB
+<h1 align= "center"> Devchallenge Vercel </h1>
+<h3 align="center"> Paulo Mariano </h3>
   
 <br />
 <p align="center">
