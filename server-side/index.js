@@ -19,7 +19,7 @@ try {
     mongoose.connect(url);
     console.log("Sucesso")
 } catch (e) {
-    console.log("Deu erro puta")
+    console.log("Error!")
 
 }
 
